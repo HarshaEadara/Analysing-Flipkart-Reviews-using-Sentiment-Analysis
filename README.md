@@ -1,4 +1,4 @@
-# Analysing-Flipkart-Reviews-using-Sentiment-Analysis
+# Analysing Flipkart Reviews using Sentiment Analysis
 This project uses methods of sentiment analysis to understand customer reviews on Flipkart, a well-known online shopping platform in India. It applies Natural Language Processing (NLP) tools to figure out what customers feel about the products, identify patterns in their feedback, and offer meaningful suggestions for improving the shopping experience and product quality.
 
 ## Table of Contents
